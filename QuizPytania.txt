@@ -1,0 +1,29 @@
+&p1=1	Jakiego rodzaju sygnaly wymuszajace sa stosowane przy wyznaczaniu charakterystyk czasominuswych elementow (czlonow) i ukladow automatyki?
+a)	Sygnal losowy.
+b)	Sygnal skokowy.
+c)	Sygnal harmoniczny.
+d)	Widmo czestotliwosci.
+
+&p2=2	Jakie twierdzenie stosuje sie do wyznaczenia transformaty sumy funkcji czasu?
+a)	O liniowosci.
+b)	O rozniczkowaniu oryginalu.
+c)	O calkowaniu oryginalu.
+d)	O transformacie splotu.
+
+&p3=3	Ile wynosi transformata splotu dwoch funkcji czasu majacych znane transformaty?
+a)	Jest rowna sumie transformat tych funkcji.
+b)	Jest rowna roznicy transformat tych funkcji.
+c)	Jest rowna iloczynowi transformat tych funkcji.
+d)	Jest rowna ilorazowi transformat tych funkcji.
+
+&p4=4	Jaka zaleznosc przedstawia transmitancja operatorowa (funkcja przejscia) elementu (czlonu) lub ukladu automatyki?
+a)	Pomiedzy sygnalami czasowymi: wyjsciowym i wejsciowym, przy zerowych warunkach poczatkowych.
+b)	Pomiedzy transformatami Fouriera: sygnalu wyjsciowego i wejsciowego, przy zerowych warunkach poczatkowych.
+c)	Pomiedzy transformatami Laplace’a: sygnalu wyjsciowego i wejsciowego, przy zerominuswych warunkach poczatkowych.
+d)	Pomiedzy transformatami Laplace’a: sygnalu wyjsciowego i wejsciowego, przy niezeminusrowych warunkach poczatkowych.
+
+&p5=5	Jaka postac ma mianownik transmitancji elementu (czlonu) inercyjnego 1 rzedu?
+a)	Ts %2B 1
+b)	Ts %2D 1
+c)	Ts %2B 2
+d)	Ts %2D 2
