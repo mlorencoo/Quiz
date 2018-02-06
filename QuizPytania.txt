@@ -1,29 +1,50 @@
-&p1=1	Jakiego rodzaju sygnaly wymuszajace sa stosowane przy wyznaczaniu charakterystyk czasominuswych elementow (czlonow) i ukladow automatyki?
+Jakiego rodzaju sygnaly wymuszajace sa stosowane przy wyznaczaniu charakterystyk czasominuswych elementow (czlonow) i ukladow automatyki?
 a)	Sygnal losowy.
 b)	Sygnal skokowy.
 c)	Sygnal harmoniczny.
 d)	Widmo czestotliwosci.
-
-&p2=2	Jakie twierdzenie stosuje sie do wyznaczenia transformaty sumy funkcji czasu?
+Jakie twierdzenie stosuje sie do wyznaczenia transformaty sumy funkcji czasu?
 a)	O liniowosci.
 b)	O rozniczkowaniu oryginalu.
 c)	O calkowaniu oryginalu.
 d)	O transformacie splotu.
-
-&p3=3	Ile wynosi transformata splotu dwoch funkcji czasu majacych znane transformaty?
+Ile wynosi transformata splotu dwoch funkcji czasu majacych znane transformaty?
 a)	Jest rowna sumie transformat tych funkcji.
 b)	Jest rowna roznicy transformat tych funkcji.
 c)	Jest rowna iloczynowi transformat tych funkcji.
 d)	Jest rowna ilorazowi transformat tych funkcji.
-
-&p4=4	Jaka zaleznosc przedstawia transmitancja operatorowa (funkcja przejscia) elementu (czlonu) lub ukladu automatyki?
+Jaka zaleznosc przedstawia transmitancja operatorowa (funkcja przejscia) elementu (czlonu) lub ukladu automatyki?
 a)	Pomiedzy sygnalami czasowymi: wyjsciowym i wejsciowym, przy zerowych warunkach poczatkowych.
 b)	Pomiedzy transformatami Fouriera: sygnalu wyjsciowego i wejsciowego, przy zerowych warunkach poczatkowych.
 c)	Pomiedzy transformatami Laplace’a: sygnalu wyjsciowego i wejsciowego, przy zerominuswych warunkach poczatkowych.
 d)	Pomiedzy transformatami Laplace’a: sygnalu wyjsciowego i wejsciowego, przy niezeminusrowych warunkach poczatkowych.
-
-&p5=5	Jaka postac ma mianownik transmitancji elementu (czlonu) inercyjnego 1 rzedu?
-a)	Ts %2B 1
-b)	Ts %2D 1
-c)	Ts %2B 2
-d)	Ts %2D 2
+Jaka postac ma mianownik transmitancji elementu (czlonu) inercyjnego 1 rzedu?
+a)	Ts+1
+b)	Ts-1
+c)	Ts+2
+d)	Ts-2
+Jaka postac ma mianownik transmitancji elementu (czlonu) inercyjnego 2 rzedu?
+a)	(T1s - 1)(T2s - 1) lub (Ts + 1)^2
+b)	(T1s + 1)(T2s + 1) lub (Ts - 1)^2
+c)	(T1s - 1)(T2s - 1) lub (Ts - 1)^2
+d)	(T1s + 1)(T2s + 1) lub (Ts + 1)^2
+Jakim elementem (czlonem) jest obiekt z samowyrownaniem?
+a)	Czlonem calkujacym z inercja.
+b)	Czlonem, ktorego wartosc odpowiedzi skokowej dazy do nieskonczonosci.
+c)	Czlonem, ktorego wartosc odpowiedzi skokowej dazy do wartosci ustalonej.
+d)	Czlonem, ktorego odpowiedz zawsze sie zeruje.
+Jaka jest zaleznosc pomiedzy odpowiedzia impulsowa a skokowa elementu (czlonu) lub ukladu automatyki?
+a)	Odpowiedz skokowa jest pochodna odpowiedzi impulsowej.
+b)	Odpowiedz skokowa jest calka odpowiedzi impulsowej.
+c)	Odpowiedz impulsowa jest transformata Laplace’a odpowiedzi skokowej.
+d)	Odpowiedz impulsowa jest transformata Fouriera odpowiedzi skokowej.
+Jakie parametry (wspolczynniki) zawiera transmitancja operatorowa czlonu inercyjnego 1 rzedu?
+a)	Wspolczynnik wzmocnienia i stala czasowa.
+b)	Wspolczynnik wzmocnienia i liczbe tlumienia.
+c)	Wspolczynnik wzmocnienia, stala czasowa i liczbe tlumienia.
+d)	Wspolczynnik wzmocnienia i czas opoznienia.
+Jakie parametry (wspolczynniki) zawiera transmitancja operatorowa czlonu idealnie calkujacego?
+a)	Wspolczynnik wzmocnienia lub stala czasowa.
+b)	Wspolczynnik wzmocnienia lub liczbe tlumienia.
+c)	Wspolczynnik wzmocnienia lub stala czasowa i liczbe tlumienia.
+d)	Wspolczynnik wzmocnienia lub czas opoznienia.
